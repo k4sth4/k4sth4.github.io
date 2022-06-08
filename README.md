@@ -7,3 +7,6 @@
 [SeLoadDriverPrivilege](https://k4sth4.github.io/SeLoadDriverPrivilege/)
 
 [SeBackupPrivilege](https://k4sth4.github.io/SeBackupPrivilege/)
+
+[UAC-bypass](https://k4sth4.github.io/UAC-bypass/)
+
