@@ -10,3 +10,5 @@
 
 [UAC-bypass](https://k4sth4.github.io/UAC-bypass/)
 
+[Lsass-dump](https://k4sth4.github.io/lsass-dump/)
+
