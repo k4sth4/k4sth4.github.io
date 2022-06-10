@@ -14,3 +14,5 @@
 
 [MSSQL-mdf-file-dump](https://k4sth4.github.io/MSSQL-mdf-file-dump/)
 
+[Creating-a-Malicious-doc-file](https://k4sth4.github.io/Creating-a-Malicious-doc/)
+
