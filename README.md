@@ -4,6 +4,8 @@
 
 [Rogue-Potato](https://k4sth4.github.io/Rogue-Potato/)
 
+[PrintSpoofer](https://k4sth4.github.io/PrintSpoofer/)
+
 [SeLoadDriverPrivilege](https://k4sth4.github.io/SeLoadDriverPrivilege/)
 
 [SeBackupPrivilege](https://k4sth4.github.io/SeBackupPrivilege/)
