@@ -18,3 +18,5 @@
 
 [Malicious-HTA-File](https://k4sth4.github.io/Malicious-HTA-File/)
 
+[Exploring-Find-cmd-in-Linux](https://k4sth4.github.io/Exploring-Find-cmd-in-Linux/)
+
