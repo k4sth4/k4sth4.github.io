@@ -28,3 +28,5 @@
 
 [AD Service-Account-Attack](https://k4sth4.github.io/Service-Account-Attack/)
 
+[Ad Kerberoasting and AS-REP Roasting](https://k4sth4.github.io/Kerberos/)
+
