@@ -30,3 +30,5 @@
 
 [AD Kerberoasting and AS-REP Roasting](https://k4sth4.github.io/Kerberos/)
 
+[AD Abusing Privileges in a Domain](https://k4sth4.github.io/Abusing-rights-in-a-Domain/)
+
