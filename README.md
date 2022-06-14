@@ -32,3 +32,5 @@
 
 [AD Abusing Privileges in a Domain](https://k4sth4.github.io/Abusing-rights-in-a-Domain/)
 
+[AD Golden Ticket Attack](https://k4sth4.github.io/Golden-Ticket-Attack/)
+
